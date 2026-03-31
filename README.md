@@ -1,6 +1,6 @@
 # COBOL Learning Repository
 
-This repository contains a collection of **COBOL programs and mini systems** created to practice and demonstrate fundamental COBOL programming concepts such as arithmetic operations, file handling, record structures, copybooks, and sequential file processing.
+This repository contains a collection of **COBOL programs and mini systems** created to practice and demonstrate fundamental COBOL programming concepts such as arithmetic operations, file handling, record structures, copybooks, and sequential file processing
 
 The programs simulate small **business-oriented applications** similar to those used in enterprise and legacy systems.
 
